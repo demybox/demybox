@@ -14,4 +14,4 @@
 [<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/microsoft/terminal)
-[<img align="left" alt="HTML5" width="36px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />](https://en.wikipedia.org/wiki/Python_(programming_language))
+[<img align="left" alt="HTML5" width="36px" src="https://banner2.cleanpng.com/20180505/fjw/kisspng-programming-language-python-github-inc-czech-repu-5aee3f21086b96.2186135215255631690345.jpg" />](https://en.wikipedia.org/wiki/Python_(programming_language)) 
