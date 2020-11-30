@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello lad 👋
 
 - 🔭 I’m currently working on webpage
 - 🌱 I’m currently learning C#
